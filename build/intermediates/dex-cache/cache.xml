@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Desktop FIles\OnePass-Compatible-All-AS\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_96c81ebd04ce86b2868efc6ba3c56332206faf25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop FIles\OnePass-Compatible-All-AS\app\libs\locSDK_4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41b93335a2753c93f8b8f56741615cb81ea72437">
+        <dex dex="D:\Desktop FIles\OnePass-Compatible-All-AS\app\build\intermediates\pre-dexed\debug\locSDK_4.2_740ed7b1b5508fc38b8f6d053bdb15504551751b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop FIles\OnePass-Compatible-All-AS\app\libs\jackson-annotations-2.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="19f42c154ffc689f40a77613bc32caeb17d744e3">
+        <dex dex="D:\Desktop FIles\OnePass-Compatible-All-AS\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.7.0_0d3bbac48cb6ee0bc93536ce6a2287b826e8bdcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop FIles\OnePass-Compatible-All-AS\app\libs\baidumapapi_v3_1_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fd80439473ff6e0e9ae45f95af48302271e1e45e">
+        <dex dex="D:\Desktop FIles\OnePass-Compatible-All-AS\app\build\intermediates\pre-dexed\debug\baidumapapi_v3_1_1_7de694bc090369a4b2c0d157b37a106f00029ed7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop FIles\OnePass-Compatible-All-AS\app\libs\jackson-core-2.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="05f2bfd0866bcacbcc7c25ce25f80b5aeed0f72f">
+        <dex dex="D:\Desktop FIles\OnePass-Compatible-All-AS\app\build\intermediates\pre-dexed\debug\jackson-core-2.7.0_5d0cef1aa77a21a2dbc8a51e4b3485096e86f35d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\7cc3c185399117e5f58d01c26b968026749dd9d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\Desktop FIles\OnePass-Compatible-All-AS\app\build\intermediates\pre-dexed\debug\classes_63fde108d4576f31cb709f56cc8b0191283eeb72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="D:\Desktop FIles\OnePass-Compatible-All-AS\app\build\intermediates\pre-dexed\debug\gson-2.6.2_1162c101d6048d3b1fdbdab70ef759c67bf31b1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop FIles\OnePass-Compatible-All-AS\app\libs\android-core-3.1.1-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9ee2a9155907c0a0398caa2eeceafdafd79ee8d8">
+        <dex dex="D:\Desktop FIles\OnePass-Compatible-All-AS\app\build\intermediates\pre-dexed\debug\android-core-3.1.1-SNAPSHOT_db17ff74e28ef9f4a7b9b88e4e87ac2658841551.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop FIles\OnePass-Compatible-All-AS\app\libs\core-3.1.1-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5589d0e71fbbd91262d1aa6c8e153ff211ec9fe0">
+        <dex dex="D:\Desktop FIles\OnePass-Compatible-All-AS\app\build\intermediates\pre-dexed\debug\core-3.1.1-SNAPSHOT_8e2c823c428927373650ed09b6b4ccf65bddcc83.jar" />
+    </item>
+
+</items>
